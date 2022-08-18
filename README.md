@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://4-0-4.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/52512005/185476970-bfbaefa0-b850-4ca7-
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- my demo is hosted on netlify platform: 
+- my demo is hosted on netlify platform: https://4-0-4.netlify.app/
 - my experience was good because i practiced css flex box
 - I keep evolving with semantic html pre processor sass
 - My wisdom is always to evolve in the knowledge I already have
