@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 133px;
+  height: 25px;
+  margin-left: 77px;
+  margin-top: 40px;
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+  color: #333333;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 1200px;
+  margin-top: 20px;
+}
+
+.card-um img {
+  width: 600px;
+  height: 400px;
+}
+
+.img {
+  max-width: 100%;
+}
+
+.card-dois {
+  position: relative;
+  left: 20px;
+  width: 600px;
+}
+
+.card-dois span {
+  width: 586px;
+  height: 190px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 95px;
+  color: #333333;
+}
+
+.card-dois h5 {
+  width: 381px;
+  height: 108px;
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+  color: #4F4F4F;
+  margin-top: 20px;
+}
+
+.card-dois button {
+  margin-top: 40px;
+  width: 216px;
+  height: 68px;
+  background: #333333;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-family: "Space Mono";
+  font-style: normal;
+  border: none;
+}
+
+footer {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #BDBDBD;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    margin-left: 20px;
+  }
+  .card-dois span {
+    width: 320px;
+    height: 142px;
+    font-size: 48px;
+    line-height: 71px;
+    letter-spacing: -0.035em;
+    color: #333333;
+  }
+  .card-dois h5 {
+    width: 328px;
+    height: 81px;
+    font-size: 18px;
+    margin-top: 40px;
+  }
+  .card-dois button {
+    margin-top: 80px;
+    background: #333333;
+  }
+}
+@media screen and (max-height: 412px) and (max-width: 915px) {
+  .container {
+    display: flex;
+  }
+  .card-um {
+    width: 250px;
+  }
+  .card-dois {
+    width: 400px;
+  }
+  .card-dois span {
+    font-size: 48px;
+  }
+  .card-dois h5 {
+    font-size: 18px;
+  }
+}
+
+/*# sourceMappingURL=estilo.css.map */
