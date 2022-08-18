@@ -54,7 +54,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [HTML](https://html.com/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [SASS](https://sass-lang.com/)
-- [Javascript](https://www.javascript.com/)
 
 ## Features
 
